@@ -8,7 +8,5 @@ The project uses python and python data science libraries Pandas, NumPy, and Mat
 
 
 
-IMPORTANT!
-
-To run the project:
+## How To Run?
 Go to DATASET section and give the path of dataset folder to load_data function
